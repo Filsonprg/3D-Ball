@@ -18,5 +18,5 @@ Pokud máte návrh na vylepšení kuličky nebo narazíte na chyby, rád ji při
 Tuto kuličku vyvinul Filip Kucer
 
 ## Poznámka
-Bohužel to neotevřete, nebo respektive otevřete, ale nic se vám nezobrazí a furt nemůžu přijít na to proč se vám to nezobrazuje, ale nahrál jsem krátkou ukázku na youtube.
+Bohužel to neotevřete, nebo respektive otevřete, ale nic se vám nezobrazí a furt nemůžu přijít na to proč se vám to nezobrazuje, ale nahrál jsem krátkou ukázku na youtube a přiložil soubory na Github.
 
