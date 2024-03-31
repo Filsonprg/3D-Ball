@@ -17,6 +17,6 @@ Pokud máte návrh na vylepšení kuličky nebo narazíte na chyby, rád ji při
 ## Autor
 Tuto kuličku vyvinul Filip Kucer
 
-##Poznámka
+## Poznámka
 Bohužel to neotevřete, nebo respektive otevřete, ale nic se vám nezobrazí a furt nemůžu přijít na to proč se vám to nezobrazuje, ale nahrál jsem krátkou ukázku na youtube.
 
